@@ -10,7 +10,7 @@ pip install mutliply_package
 
 How to multiply one number by another with this lib :
 
-from medium_multiply import Multiplication
+from multiply_package import Multiplication
 
 # Instantiate a Multiplication object
 multiplication = Multiplication(2)
